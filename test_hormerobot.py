@@ -34,7 +34,6 @@ class SimpleCalculatorTests(unittest.TestCase):
     def test_addition(self):
         self.driver.find_element_by_name("One").click()
         self.driver.find_element_by_name("Plus").click()
-INFO:root:info
         self.driver.find_element_by_name("Seven").click()
         self.driver.find_element_by_name("Equals").click()
 
