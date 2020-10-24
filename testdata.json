@@ -1,0 +1,13 @@
+{'fileLocation': '', 
+    'calibrationPixels': {'origin': {'X': 0, 'Y': 0
+        }, 'end': {'X': 0, 'Y': 0
+        }
+    }, 'calibrationRobotMM': {'origin': {'X': 0, 'Y': 0
+        }, 'end': {'X': 0, 'Y': 0
+        }
+    }, 'option': 0,
+     'position': {'X': 0, 'Y': 0, 'R': 0
+    },
+      'pixel': {'X': 0, 'Y': 0
+    }
+}
